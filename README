@@ -1,0 +1,43 @@
+
+Nota: Si esta es la primera ves instalando tu lenguaje, por favor sigue los siguientes pasos. Si no es tu primera vez, por favor seguir los pasos de actualización.
+
+Instalación del Lenguaje
+=======================================
+
+Ir al panel de administración > Languages & Phrases > Download / Upload Languages. 
+
+Desde el recuadro Import Language XML File
+
+	- Darle al botón Browse... (Choose file en otros navegadores), localizar el archivo del lenguaje que has descargado
+	- Dejar todas las opciones como están, solo cambia Ignore Language Version a "Yes" si estás instalando el lenguaje en una versión diferente para la que fué creado este lenguaje.
+	- Presionamos el botón Import y listo.
+
+
+Actualización del Lenguaje de vBulletin
+=======================================
+
+
+Nota: Debes elegir sobrescribir el lenguaje Español que ya tienes instalado.
+-------------------------------------------------------------------------------
+
+Ir al panel de administración > Lenguaje y Frases > Descargar / Subir Lenguaje. 
+
+Desde el recuadro Importar Archivo XML del Leguaje
+
+	- Darle al botón Browse... (Choose file, en otros navegadores), localizar el archivo del lenguaje que has descargado
+	- Elegir el lenguaje a actualizar, en este caso sería el que ya tenemos de Español. Cambia Ignorar Versión de Lenguaje a "Sí" en caso de que estés instalando el lenguaje en una versión diferente para la que fué creado este lenguaje.
+	- Presionamos el botón Import y listo.
+
+
+Instalar o Actualizar el Lenguaje del Blog y CMS
+=====================================================
+
+Nota: lenguajes para el CMS y Blog, deben instalarse sobre el lenguaje Español que ya hayas instalado previamente.
+
+Ir al panel de administración > Lenguaje y Frases > Descargar / Subir Lenguaje. 
+
+Desde el recuadro Importar Archivo XML del Leguaje
+
+	- Darle al botón Browse... (Choose file, en otros navegadores), localizar el archivo del lenguaje del CMS o Blog que has descargado
+	- Elegir el lenguaje Español y cambia Ignorar Versión de Lenguaje a "Sí" en caso de que estés instalando el lenguaje en una versión diferente para la que fue creado este lenguaje.
+	- Presionamos el botón Import y listo.
