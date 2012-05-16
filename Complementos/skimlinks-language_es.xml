@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
-<language name="Español (es)" vbversion="4.1.10" product="skimlinks" type="phrases">
+<language name="Español (es)" vbversion="4.1.12" product="skimlinks" type="phrases">
 	<phrasetype name="Control Panel Global" fieldname="cpglobal">
 		<phrase name="skimlinks_advanced_options" date="1329921944" username="vBHispano" version="4.1.10"><![CDATA[Opciones avanzadas de Skimlinks]]></phrase>
 		<phrase name="skimlinks_dissociate_account" date="1329921890" username="vBHispano" version="4.1.10"><![CDATA[Disociar cuenta]]></phrase>
@@ -55,6 +55,7 @@ Los detalles aquí proveídos serán enviados a Skimlinks y tu cuenta será activada
 		<phrase name="skimlinks_product_level_options_description" date="1329922322" username="vBHispano" version="4.1.10"><![CDATA[Puedes controlar la activación de los productos SkimLinks y SkimWords de varias maneras, incluyendo por grupos de usuario, secciones de tu foro, edad de tus temas, y permitiendo a tus usuarios activar el producto por ellos mismos.
 <br />Por favor, visita  la página de "Opciones avanzadas" desde el menú en la izquierda para ver y configurar estas opciones.]]></phrase>
 		<phrase name="skimlinks_to_enable_products" date="1329922632" username="vBHispano" version="4.1.10"><![CDATA[Para activar y configurar productos específicos de Skimlinks, por favor visita la <a href="https://accounts.skimlinks.com/settings" target="_blank">Interfaz de editor de Skimlinks</a>.<br />Desde allí puedes seguir configurando tu cuenta de Skimlinks y la configuración, ver detalles del tráfico y reportes de ingresos. Todos los ingresos obtenidos se entregarán a tu cuenta de Skimlinks]]></phrase>
+		<phrase name="unsaved_changes_may_be_lost" date="1337152483" username="vBHispano" version="4.1.12"><![CDATA[Hay cambios sin guardar en la página que podrían perderse.]]></phrase>
 	</phrasetype>
 	<phrasetype name="Control Panel Home Pages" fieldname="cphome">
 		<phrase name="skimlinks_global_options" date="1329922243" username="vBHispano" version="4.1.10"><![CDATA[Opciones globales de SkimLinks]]></phrase>
