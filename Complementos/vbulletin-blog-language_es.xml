@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
-<language name="Español (es)" vbversion="4.1.10" product="vbblog" type="phrases">
+<language name="Español (es)" vbversion="4.1.12" product="vbblog" type="phrases">
 	<phrasetype name="Advertising" fieldname="advertising">
 		<phrase name="adlocation_bloglist_first_entry" date="1297072787" username="Admin" version="4.1.2 Beta 1"><![CDATA[Primera entrada]]></phrase>
 		<phrase name="adlocation_blogshowentry_after" date="1297072787" username="Admin" version="4.1.2 Beta 1"><![CDATA[Después de la entrada]]></phrase>
@@ -396,11 +396,11 @@ Después de crear tus categorías, vas a ser capaz de seleccionar múltiples catego
 <p>Cambia <span class="smallfont" style="font-weight:bold">Publicar ahora</span> a <span class="smallfont" style="font-weight:bold">Borrador</span> y luego le das a guardar. Alternativamente, puedes pulsar el botón <span class="smallfont" style="font-weight:bold">Guardar borrador </span>en cualquier momento.</p>
 
 <p><span class="smallfont" style="font-weight:bold">Tus entradas pendientes solo son visibles para ti hasta que han sido publicadas.</span></p>]]></phrase>
-		<phrase name="vbblog_faq_reading_and_posting_how_do_i_post_pastdate" date="1297152175" username="Admin" version="4.1.2 Beta 1"><![CDATA[<p>También puedes publicar entradas que tengan un sello de tiempo en el pasado. Esto es útil para las entradas que olvidaste publicar y funcionan mejor en  orden cronológico.</p>
+		<phrase name="vbblog_faq_reading_and_posting_how_do_i_post_pastdate" date="1337188471" username="vBHispano" version="4.1.12"><![CDATA[<p>También puedes publicar entradas que tengan un sello de tiempo en el pasado. Esto es útil para las entradas que olvidaste publicar y funcionan mejor en  orden cronológico.</p>
 
 <p>Para una entrada en el pasado, crea una entrada normal pero antes de publicar la entrada, encuentra <span class="smallfont" style="font-weight:bold">Estado de publicación</span> en <span class="smallfont" style="font-weight:bold">Opciones varias</span> en la parte inferior de la página de creación de entradas. Esta opción está por defecto a <span class="smallfont" style="font-weight:bold">Publicar ahora</span>.</p>
 
-<p>Cambiar <span class="smallfont" style="font-weight:bold">Publicar ahora</span> a <span class="smallfont" style="font-weight:bold">Publicar en</span> y luego elije la hora y fecha en la que desees que la entrada aparesca publicada. Si eliges una fecha en el futuro, estarás creando una <span class="smallfont" style="font-weight:bold">Entrada pendiente</span>.</p>]]></phrase>
+<p>Cambiar <span class="smallfont" style="font-weight:bold">Publicar ahora</span> a <span class="smallfont" style="font-weight:bold">Publicar en</span> y luego elegir la hora y fecha en la que desees que la entrada aparesca publicada. Si eliges una fecha en el futuro, estarás creando una <span class="smallfont" style="font-weight:bold">Entrada pendiente</span>.</p>]]></phrase>
 		<phrase name="vbblog_faq_reading_and_posting_how_do_i_post_pending" date="1297152175" username="Admin" version="4.1.2 Beta 1"><![CDATA[<p>Entradas que deseas crear ahora, pero que sean publicadas en un momento posterior se denominan <em>Entradas pendientes</em>.  Para crear una entrada pendiente, crea una entrada normal pero antes de someter la entrada, encuentra la opción <span class="smallfont" style="font-weight:bold">Estado de publicación </span> en las <span class="smallfont" style="font-weight:bold">Opciones varias</span> en la parte inferior de la página de creación de entrada. Por defecto esta opción está a <span class="smallfont" style="font-weight:bold">Publicar ahora</span>.</p>
 
 <p>Cambia <span class="smallfont" style="font-weight:bold">Publicar ahora</span> a <span class="smallfont" style="font-weight:bold">Publicar en</span> y luego elige la fecha y hora que deseas para que la entrada sea publicada. Debido a la arquitectura, las entradas pueden aparecer en espera unos minutos más tarde de la hora que has especificado pero tendrán un sello de tiempo que coincidirá la fecha y hora que elijas.</p>
@@ -597,7 +597,7 @@ Después de crear tus categorías, vas a ser capaz de seleccionar múltiples catego
 		<phrase name="setting_blogentries_messagemaxchars_title" date="1297151588" username="Admin" version="4.1.2 Beta 1"><![CDATA[Longitud del texto de vista previa de entradas de blog]]></phrase>
 		<phrase name="setting_blogentries_titlemaxchars_desc" date="1264557756" username="Elmer" version="4.0.1"><![CDATA[Esta opción te permite especificar cuántos caracteres del título de una entrada de blog se va a mostrar en el bloque.]]></phrase>
 		<phrase name="setting_blogentries_titlemaxchars_title" date="1297150299" username="Admin" version="4.1.2 Beta 1"><![CDATA[Longitud del título de entrada de blog]]></phrase>
-		<phrase name="setting_blogentries_type_desc" date="1297152175" username="Admin" version="4.1.2 Beta 1"><![CDATA[Elije que tipo de entrada de blog deseas mostrar:
+		<phrase name="setting_blogentries_type_desc" date="1337188382" username="vBHispano" version="4.1.12"><![CDATA[Elegir que tipo de entrada de blog deseas mostrar:
 <br />
 <strong>Nuevos iniciados</strong> - Entradas de blogs publicadas recientemente se mostrarán primero<br />
 <strong>Nuevos respondidos</strong> - Entradas de blogs comentadas recientemente se mostrarán primero<br />
@@ -1172,8 +1172,8 @@ Fijar esto a 0 para desactivar esta función.]]></phrase>
 		<phrase name="setting_vbblog_snippet_title" date="1297145470" username="Admin" version="4.1.2 Beta 1"><![CDATA[Longitud de fragmentos]]></phrase>
 		<phrase name="setting_vbblog_stat_cutoff_desc" date="1262584950" username="Elmer" version="4.0.0"><![CDATA[El número de días que estadísticas de blog individuales (entradas, comentarios, visitas) se mantienen para cada blog.]]></phrase>
 		<phrase name="setting_vbblog_stat_cutoff_title" date="1297150944" username="Admin" version="4.1.2 Beta 1"><![CDATA[Corte de estadísticas de usuario]]></phrase>
-		<phrase name="setting_vbblog_style_desc" date="1297148304" username="Admin" version="4.1.2 Beta 1"><![CDATA[Puedes elegir reemplazar el estilo predeterminado de tu foro, o el estilo elegido por el usuario con un estilo específico para el blog.]]></phrase>
-		<phrase name="setting_vbblog_style_title" date="1297073766" username="Admin" version="4.1.2 Beta 1"><![CDATA[Remplazo de estilo de blog]]></phrase>
+		<phrase name="setting_vbblog_style_desc" date="1337150354" username="vBHispano" version="4.1.12"><![CDATA[Puedes elegir reemplazar el estilo predeterminado de tu foro, o el estilo elegido por el usuario con un estilo específico para el blog.]]></phrase>
+		<phrase name="setting_vbblog_style_title" date="1337150339" username="vBHispano" version="4.1.12"><![CDATA[Remplazo de estilo de blog]]></phrase>
 		<phrase name="setting_vbblog_tagcloud_cachetime_desc" date="1266789875" username="Chuta" version="4.0.2"><![CDATA[Cantidad de tiempo en minutos antes de que el caché de la nube de etiquetas sea regenerado.<br />
 <br />
 Un valor de 0 generará la nube de etiquetas en cada visita.]]></phrase>
