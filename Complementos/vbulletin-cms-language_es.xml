@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
-<language name="Español (es)" vbversion="4.1.10" product="vbcms" type="phrases">
+<language name="Español (es)" vbversion="4.1.12" product="vbcms" type="phrases">
 	<phrasetype name="Content Types" fieldname="contenttypes">
 		<phrase name="contenttype_vbcms_article" date="1257119132" username="Chuta" version="4.0.0 Beta 1"><![CDATA[Artículo]]></phrase>
 		<phrase name="contenttype_vbcms_article_untitled" date="1297150414" username="Admin" version="4.1.2 Beta 1"><![CDATA[Artículo sin título]]></phrase>
@@ -48,7 +48,7 @@ Esta acción no se puede deshacer.]]></phrase>
 		<phrase name="category_editor_section_navigator" date="1297148835" username="Admin" version="4.1.2 Beta 1"><![CDATA[Editor de categoría / Navegador de secciones]]></phrase>
 		<phrase name="category_title" date="1297074726" username="Admin" version="4.1.2 Beta 1"><![CDATA[Título de la categoría]]></phrase>
 		<phrase name="check_lost_found" date="1297144549" username="Admin" version="4.1.2 Beta 1"><![CDATA[Se encontraron algunos nodos que no fueron colocados correctamente. Por favor, revisa la sección de perdidos y encontrados y muévelos a la sección correspondiente.]]></phrase>
-		<phrase name="choose_a_section" date="1297148476" username="Admin" version="4.1.2 Beta 1"><![CDATA[Elige una sección]]></phrase>
+		<phrase name="choose_a_section" date="1337188382" username="vBHispano" version="4.1.12"><![CDATA[Elegir una sección]]></phrase>
 		<phrase name="choose_category_to_create" date="1260695478" username="Elmer" version="4.0.0 Release Candidate 2"><![CDATA[2. Elegir una categoría para crear subcategorías]]></phrase>
 		<phrase name="choose_grid" date="1297074726" username="Admin" version="4.1.2 Beta 1"><![CDATA[Selecciona una cuadrícula]]></phrase>
 		<phrase name="choose_new_section" date="1297148476" username="Admin" version="4.1.2 Beta 1"><![CDATA[Selecciona una nueva sección]]></phrase>
@@ -155,7 +155,7 @@ Esta acción no se puede deshacer.]]></phrase>
 		<phrase name="lost_found" date="1297087130" username="Admin" version="4.1.2 Beta 1"><![CDATA[Perdidos y encontrados]]></phrase>
 		<phrase name="manual_only" date="1297149135" username="Admin" version="4.1.2 Beta 1"><![CDATA[Manual solamente]]></phrase>
 		<phrase name="manual_then_by_date" date="1266343007" username="Elmer" version="4.0.2"><![CDATA[Manual, luego por fecha]]></phrase>
-		<phrase name="max_perpage_x" date="1266515136" username="Chuta" version="4.0.2"><![CDATA[Solamente puedes asignar un máximo de {1} artículos a una sección de la página de inicio. Por favor, elije un número menor.]]></phrase>
+		<phrase name="max_perpage_x" date="1337188471" username="vBHispano" version="4.1.12"><![CDATA[Solamente puedes asignar un máximo de {1} artículos a una sección de la página de inicio. Por favor, elegir un número menor.]]></phrase>
 		<phrase name="max_to_display" date="1297131221" username="Admin" version="4.1.2 Beta 1"><![CDATA[Número máximo de artículos a mostrar]]></phrase>
 		<phrase name="menu_type" date="1297131000" username="Admin" version="4.1.2 Beta 1"><![CDATA[Tipo de menú]]></phrase>
 		<phrase name="menu_type_fixed" date="1264231263" username="Chuta" version="4.0.1"><![CDATA[Fijo- muestra los del mismo tipo y los secundarios]]></phrase>
@@ -201,7 +201,7 @@ $algunacosa2 = $algunafuncion2();
 $output = "Hola mundo<br />";]]></phrase>
 		<phrase name="php_preview_goes_here_desc" date="1277787094" username="Chuta" version="4.0.4"><![CDATA[/*Esto debería ser lo mismo. Si no escribes nada aquí, entonces eliminaremos el código HTML de la salida de la sección anterior y usaremos esto. **/
 $output='Hi';]]></phrase>
-		<phrase name="pick_a_section_below" date="1297148476" username="Admin" version="4.1.2 Beta 1"><![CDATA[1. Las categorías deben pertenecer a una sección. Elije una sección]]></phrase>
+		<phrase name="pick_a_section_below" date="1337188382" username="vBHispano" version="4.1.12"><![CDATA[1. Las categorías deben pertenecer a una sección. Elegir una sección]]></phrase>
 		<phrase name="please_enter_layout_title" date="1277787094" username="Chuta" version="4.0.4"><![CDATA[Por favor, escribe un título para este diseño]]></phrase>
 		<phrase name="please_specify_one_widget" date="1277787094" username="Chuta" version="4.0.4"><![CDATA[Por favor, especifica al menos un widget]]></phrase>
 		<phrase name="posts_by_user" date="1277787094" username="Chuta" version="4.0.4"><![CDATA[Mensajes escritos por los siguientes usuarios]]></phrase>
@@ -245,6 +245,7 @@ $output='Hi';]]></phrase>
 		<phrase name="selected" date="1258186004" username="Elmer" version="4.0.0 Beta 3"><![CDATA[Seleccionado]]></phrase>
 		<phrase name="sequence" date="1258186004" username="Elmer" version="4.0.0 Beta 3"><![CDATA[Secuencia #]]></phrase>
 		<phrase name="settings_for" date="1297142866" username="Admin" version="4.1.2 Beta 1"><![CDATA[Usar opciones para]]></phrase>
+		<phrase name="settings_for_description" date="1337152328" username="vBHispano" version="4.1.12"><![CDATA[Esto afecta el desplegado de titulo, autor, fecha de publicación, fecha de actualización, vista de página y desplegado completo en configuraciones de sección de página. Todas estas configuraciones tienen el valor por defecto de "Sí".]]></phrase>
 		<phrase name="show_children_below" date="1297075521" username="Admin" version="4.1.2 Beta 1"><![CDATA[¿Mostrar el contenido de las Sub-Secciones?]]></phrase>
 		<phrase name="show_children_on_summary" date="1297076242" username="Admin" version="4.1.2 Beta 1"><![CDATA[Mostrar contenido de Sub-Secciones]]></phrase>
 		<phrase name="show_full_article" date="1297075972" username="Admin" version="4.1.2 Beta 1"><![CDATA[Mostrar artículo completo]]></phrase>
@@ -287,7 +288,7 @@ sitemap XML para cada una de las secciones del CMS. Cuando se define un valor pa
 		<phrase name="updated_on_x" date="1329922408" username="vBHispano" version="4.1.10"><![CDATA[Actualizado el {1}]]></phrase>
 		<phrase name="url" date="1258239005" username="Chuta" version="4.0.0 Beta 3"><![CDATA[URL]]></phrase>
 		<phrase name="url_alias" date="1271027172" username="Chuta" version="4.0.3"><![CDATA[URL Amigable]]></phrase>
-		<phrase name="url_in_use" date="1277788444" username="Chuta" version="4.0.4"><![CDATA[Esta URL Amigable ya está en uso. Por favor, elije una nueva.]]></phrase>
+		<phrase name="url_in_use" date="1337188471" username="vBHispano" version="4.1.12"><![CDATA[Esta URL Amigable ya está en uso. Por favor, elegir una nueva.]]></phrase>
 		<phrase name="user_group" date="1297151176" username="Admin" version="4.1.2 Beta 1"><![CDATA[Grupo del usuario]]></phrase>
 		<phrase name="users" date="1276987678" username="Elmer" version="4.0.4"><![CDATA[Usuarios]]></phrase>
 		<phrase name="view_and_preview" date="1297148835" username="Admin" version="4.1.2 Beta 1"><![CDATA[Página de contenido &amp; Página de sección]]></phrase>
@@ -551,6 +552,9 @@ La opción "Nuevos primero" hará que los artículos más nuevos publicados en ambas
 		<phrase name="statichtml" date="1257117028" username="Chuta" version="4.0.0 Beta 1"><![CDATA[HTML Estático]]></phrase>
 		<phrase name="your_friends_list_is_empty" date="1257117696" username="Chuta" version="4.0.0 Beta 1"><![CDATA[Tu lista de amigos está vacía.]]></phrase>
 	</phrasetype>
+	<phrasetype name="Messaging" fieldname="messaging">
+		<phrase name="report_bad_articlecomment" date="1337183437" username="vBHispano" version="4.1.12"><![CDATA[Reportar comentario de artículo]]></phrase>
+	</phrasetype>
 	<phrasetype name="Posting" fieldname="posting">
 		<phrase name="automatic" date="1258142707" username="Elmer" version="4.0.0 Beta 3"><![CDATA[Automático]]></phrase>
 		<phrase name="columns" date="1258142858" username="Elmer" version="4.0.0 Beta 3"><![CDATA[Columnas]]></phrase>
@@ -576,7 +580,6 @@ La opción "Nuevos primero" hará que los artículos más nuevos publicados en ambas
 		<phrase name="stylevar_imgdir_cms_name" date="1329922435" username="vBHispano" version="4.1.10"><![CDATA[Directorio de imágenes de CMS]]></phrase>
 		<phrase name="stylevar_vbcms_article_background_description" date="1329922431" username="vBHispano" version="4.1.10"><![CDATA[Color de fondo para los artículos de CMS en la vista de pre-visualización y página]]></phrase>
 		<phrase name="stylevar_vbcms_article_background_name" date="1329922425" username="vBHispano" version="4.1.10"><![CDATA[Fondo de artículo de CMS]]></phrase>
-		<phrase name="vbcms_template_group" date="1262576283" username="Chuta" version="4.0.0"><![CDATA[vBulletin CMS]]></phrase>
 	</phrasetype>
 	<phrasetype name="Forum Blocks" fieldname="vbblock">
 		<phrase name="blocktype_cmsarticles" date="1263502183" username="Elmer" version="4.0.1"><![CDATA[Artículos de CMS]]></phrase>
@@ -590,7 +593,7 @@ La opción "Nuevos primero" hará que los artículos más nuevos publicados en ambas
 		<phrase name="setting_cmsarticles_messagemaxchars_title" date="1297151459" username="Admin" version="4.1.2 Beta 1"><![CDATA[Longitud de la vista previa de artículo]]></phrase>
 		<phrase name="setting_cmsarticles_sectionids_desc" date="1260746668" username="Elmer" version="4.0.0 Release Candidate 2"><![CDATA[Puedes elegir mostrar artículos de secciones específicas.]]></phrase>
 		<phrase name="setting_cmsarticles_sectionids_title" date="1297148835" username="Admin" version="4.1.2 Beta 1"><![CDATA[Límite de secciones]]></phrase>
-		<phrase name="setting_cmsarticles_type_desc" date="1297152175" username="Admin" version="4.1.2 Beta 1"><![CDATA[Elije que tipo de artículo deseas mostrar:
+		<phrase name="setting_cmsarticles_type_desc" date="1337188382" username="vBHispano" version="4.1.12"><![CDATA[Elegir que tipo de artículo deseas mostrar:
 <br />
 <strong>Nuevos iniciados</strong> - Artículos nuevos iniciados recientemente se mostrarán primero<br />
 <strong>Nuevos respondidos</strong> - Artículos comentados recientemente se mostrarán primero<br />
@@ -654,6 +657,7 @@ La opción "Nuevos primero" hará que los artículos más nuevos publicados en ambas
 		<phrase name="invalid_action" date="1329924057" username="vBHispano" version="4.1.10"><![CDATA[Acción solicitada no válida]]></phrase>
 		<phrase name="invalid_route" date="1329924047" username="vBHispano" version="4.1.10"><![CDATA[Ruta solicitada no válida]]></phrase>
 		<phrase name="items" date="1258110253" username="Elmer" version="4.0.0 Beta 3"><![CDATA[Artículos]]></phrase>
+		<phrase name="keep_original_thread" date="1337185802" username="vBHispano" version="4.1.12"><![CDATA[Mantener el tema original]]></phrase>
 		<phrase name="layout" date="1257304958" username="Brenda" version="4.0.0 Beta 1"><![CDATA[Diseño]]></phrase>
 		<phrase name="main_template" date="1329924029" username="vBHispano" version="4.1.10"><![CDATA[Plantilla principal]]></phrase>
 		<phrase name="max_items" date="1257304958" username="Brenda" version="4.0.0 Beta 1"><![CDATA[A lo mucho esta cantidad de veces]]></phrase>
@@ -665,6 +669,7 @@ La opción "Nuevos primero" hará que los artículos más nuevos publicados en ambas
 		<phrase name="most_active" date="1297072449" username="Admin" version="4.1.2 Beta 1"><![CDATA[Más activo.]]></phrase>
 		<phrase name="most_recent" date="1297147987" username="Admin" version="4.1.2 Beta 1"><![CDATA[Más reciente.]]></phrase>
 		<phrase name="most_viewed" date="1297152175" username="Admin" version="4.1.2 Beta 1"><![CDATA[Más visitado.]]></phrase>
+		<phrase name="move_to_comments_forum" date="1337185794" username="vBHispano" version="4.1.12"><![CDATA[Mover al foro de comentarios]]></phrase>
 		<phrase name="need_article_title" date="1271198083" username="Elmer" version="4.0.3"><![CDATA[Se requiere un título para este artículo.]]></phrase>
 		<phrase name="need_section_title" date="1271198068" username="Elmer" version="4.0.3"><![CDATA[Por favor escribir un título para esta sección]]></phrase>
 		<phrase name="need_title" date="1297148476" username="Admin" version="4.1.2 Beta 1"><![CDATA[Necesitas escribir un título para la sección]]></phrase>
@@ -718,9 +723,10 @@ La opción "Nuevos primero" hará que los artículos más nuevos publicados en ambas
 		<phrase name="select_content_types" date="1297149737" username="Admin" version="4.1.2 Beta 1"><![CDATA[Selecciona tipos de contenido para mostrar]]></phrase>
 		<phrase name="select_forums" date="1297088031" username="Admin" version="4.1.2 Beta 1"><![CDATA[Seleccionar foro(s)]]></phrase>
 		<phrase name="select_prefixes" date="1297159184" username="Admin" version="4.1.2 Beta 1"><![CDATA[Seleccionar prefijo(s)]]></phrase>
-		<phrase name="select_recent_type" date="1266717294" username="Chuta" version="4.0.2"><![CDATA[Este widget muestra temas con actividad reciente, pero necesitamos ser más específicos. Por favor, elije uno de estos tipos.]]></phrase>
+		<phrase name="select_recent_type" date="1337188471" username="vBHispano" version="4.1.12"><![CDATA[Este widget muestra temas con actividad reciente, pero necesitamos ser más específicos. Por favor, elegir uno de estos tipos.]]></phrase>
 		<phrase name="select_sg_categories" date="1297117276" username="Admin" version="4.1.2 Beta 1"><![CDATA[Selecciona categorías de grupos]]></phrase>
 		<phrase name="select_types" date="1297150590" username="Admin" version="4.1.2 Beta 1"><![CDATA[Seleccionar tipo(s)]]></phrase>
+		<phrase name="sent_date" date="1337185778" username="vBHispano" version="4.1.12"><![CDATA[Enviado]]></phrase>
 		<phrase name="short_for_friday" date="1266717294" username="Chuta" version="4.0.2"><![CDATA[Vi]]></phrase>
 		<phrase name="short_for_monday" date="1266717330" username="Chuta" version="4.0.2"><![CDATA[Lu]]></phrase>
 		<phrase name="short_for_saturday" date="1266717330" username="Chuta" version="4.0.2"><![CDATA[Sá]]></phrase>
@@ -728,6 +734,8 @@ La opción "Nuevos primero" hará que los artículos más nuevos publicados en ambas
 		<phrase name="short_for_thursday" date="1266717330" username="Chuta" version="4.0.2"><![CDATA[Ju]]></phrase>
 		<phrase name="short_for_tuesday" date="1266717330" username="Chuta" version="4.0.2"><![CDATA[Ma]]></phrase>
 		<phrase name="short_for_wednesday" date="1266717330" username="Chuta" version="4.0.2"><![CDATA[Mi]]></phrase>
+		<phrase name="show_category_parent" date="1337185773" username="vBHispano" version="4.1.12"><![CDATA[Mostrar categoría(s) principal(es)]]></phrase>
+		<phrase name="show_category_section" date="1337185743" username="vBHispano" version="4.1.12"><![CDATA[Mostrar nombre de la sección de duplicados]]></phrase>
 		<phrase name="show_parents" date="1297159184" username="Admin" version="4.1.2 Beta 1"><![CDATA[Mostrar primario(s)]]></phrase>
 		<phrase name="show_siblings" date="1297118961" username="Admin" version="4.1.2 Beta 1"><![CDATA[Mostrar hermano(s)]]></phrase>
 		<phrase name="show_threaded" date="1297131747" username="Admin" version="4.1.2 Beta 1"><![CDATA[Mostrar comentarios en modo hilado]]></phrase>
