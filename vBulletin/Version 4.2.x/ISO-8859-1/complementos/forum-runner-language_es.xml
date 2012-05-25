@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<language name="Español (es)" vbversion="4.2.0" product="forumrunner" type="phrases">
+	<phrasetype name="Scheduled Tasks" fieldname="cron">
+		<phrase name="task_forumrunnerpush_desc" date="1337153891" username="vBHispano" version="4.1.12"><![CDATA[Esto se ejecuta cada 10 minutos y pone en cola notificaciones de mensajes privado y suscripciones a temas para ser enviadas a los servidores de Forum Runner para ser distribuidas a los usuarios que usan Forum Runner. No envía ningún dato personal.]]></phrase>
+		<phrase name="task_forumrunnerpush_title" date="1337153719" username="vBHispano" version="4.1.12"><![CDATA[Notificaciones Push de Forum Runner]]></phrase>
+	</phrasetype>
+	<phrasetype name="Error Messages" fieldname="error">
+		<phrase name="fr_no_permission_current" date="1337152981" username="vBHispano" version="4.1.12"><![CDATA[No tienes permiso para ver temas actuales en los foros.]]></phrase>
+	</phrasetype>
+	<phrasetype name="GLOBAL" fieldname="global">
+		<phrase name="fr_thanked_by" date="1337182563" username="vBHispano" version="4.1.12"><![CDATA[Agradecido por]]></phrase>
+	</phrasetype>
+	<phrasetype name="Register" fieldname="register">
+		<phrase name="fr_register_forum_rules" date="1337183424" username="vBHispano" version="4.1.12"><![CDATA[<p><strong>Reglas del foro</strong></p>
+
+<p>¡El registro a este foro es gratis!. Insistimos en que cumplas las reglas y políticas detalladas a continuación. Si estás de acuerdo con los términos, por favor marca la casilla apropiada en el app.
+
+<p>Aunque los administradores y moderadores de estos foros tratarán de mantener todos los mensajes de este foro en orden, es imposible para nosotros revisar todos los mensajes. Todos los mensajes expresan el punto de vista del autor, y ni los propietarios del foro se harán responsables por el contenido de cualquier mensaje. </p> 
+
+<p>Al aceptar estas reglas, garantizas que no publicarás ningún mensaje que sea obsceno, vulgar, orientado sexualmente, de odio, amenazante, o cualquier otro que infrinja las reglas o leyes. </p> 
+
+<p>Los propietarios de estos foros se reservan el derecho de remover, editar, mover o cerrar cualquier tema por cualquier razón.</p>
+
+<p>Al crear una cuenta en estos foros, también estás afirmando que tienes al menos 13 años de edad.</p>]]></phrase>
+	</phrasetype>
+	<phrasetype name="vBulletin Settings" fieldname="vbsettings">
+		<phrase name="forumrunner_exclude_no_forums" date="1337185697" username="vBHispano" version="4.1.12"><![CDATA[No excluir foros]]></phrase>
+		<phrase name="setting_forumrunner_admob_publisherid_android_desc" date="1337185104" username="vBHispano" version="4.1.12"><![CDATA[Introducir el ID de editor de AdMob para Android que hayas configurado. ver <a target="_new" href="http://www.forumrunner.com/forum/showthread.php?t=511">este mensaje</a> para instrucciones de como configurar AdMob)]]></phrase>
+		<phrase name="setting_forumrunner_admob_publisherid_android_title" date="1337185051" username="vBHispano" version="4.1.12"><![CDATA[ID de editor de AdMob para Android]]></phrase>
+		<phrase name="setting_forumrunner_admob_publisherid_iphone_desc" date="1337185074" username="vBHispano" version="4.1.12"><![CDATA[Introducir el ID de editor de AdMob para iPhone que hayas configurado. ver <a target="_new" href="http://www.forumrunner.com/forum/showthread.php?t=511">este mensaje</a> para instrucciones de como configurar AdMob)]]></phrase>
+		<phrase name="setting_forumrunner_admob_publisherid_iphone_title" date="1337184865" username="vBHispano" version="4.1.12"><![CDATA[Id de editor de AdMob para el iPhone]]></phrase>
+		<phrase name="setting_forumrunner_branding_navbar_bg_desc" date="1337188382" username="vBHispano" version="4.1.12"><![CDATA[Elegir un color para el fondo de las cabeceras cuando los usuarios navegan con tu aplicación. Dejar en blanco (o transparente) para el color por defecto. Este *DEBE* estar en el formato "#RRGGBB" o "rgb(R, G, B)".]]></phrase>
+		<phrase name="setting_forumrunner_branding_navbar_bg_title" date="1337184715" username="vBHispano" version="4.1.12"><![CDATA[Color de fondo de la cabecera de aplicaciones móviles]]></phrase>
+		<phrase name="setting_forumrunner_cms_onoff_desc" date="1337184651" username="vBHispano" version="4.1.12"><![CDATA[Seleccionar Sí si deseas que los usuarios navegando a través de tu foro a través de Forum Runner para mostrar un menú "Noticias" el cual mostrará artículos del sistema CMS del foro y permitir a tus usuarios leer mensajes del CMS, así como responder a ellos.]]></phrase>
+		<phrase name="setting_forumrunner_cms_onoff_title" date="1337184480" username="vBHispano" version="4.1.12"><![CDATA[¿Activar soporte CMS en app?]]></phrase>
+		<phrase name="setting_forumrunner_cms_section_desc" date="1337184441" username="vBHispano" version="4.1.12"><![CDATA[Seleccionar la sección de CMS que te gustaría que se muestre a los usuarios cuando toquen en "Noticias" del menú por defecto. Ellos serán capaces de cambiar las secciones tocando "Secciones".]]></phrase>
+		<phrase name="setting_forumrunner_cms_section_title" date="1337184334" username="vBHispano" version="4.1.12"><![CDATA[Sección predeterminada del CMS a mostrar]]></phrase>
+		<phrase name="setting_forumrunner_enable_registration_desc" date="1337188098" username="vBHispano" version="4.1.12"><![CDATA[Esta opción te permite activar o desactivar el registro mediante los dispositivos móviles. Si se activa, cuando el usuario toque el botón "Registrarse", serán llevados a la página de registro.]]></phrase>
+		<phrase name="setting_forumrunner_enable_registration_title" date="1337187993" username="vBHispano" version="4.1.12"><![CDATA[¿Permitir el registro desde la aplicación?]]></phrase>
+		<phrase name="setting_forumrunner_exclude_desc" date="1337187979" username="vBHispano" version="4.1.12"><![CDATA[Seleccionar los foros que no deseas que aparezcan en la lista de foros al usar la aplicación Forum Runner en dispositivos móviles. Puedes usar control mas clic, para selecciones múltiples. Si deseas mostrar todos los foros, elige No excluir foros.]]></phrase>
+		<phrase name="setting_forumrunner_exclude_title" date="1337187890" username="vBHispano" version="4.1.12"><![CDATA[Foros a excluir de Forum Runner]]></phrase>
+		<phrase name="setting_forumrunner_google_analytics_id_desc" date="1337187875" username="vBHispano" version="4.1.12"><![CDATA[Introducir el ID de la cuenta de Google Analytics que deseas utilizar para el seguimiento de datos analíticos. Ver <a href="http://www.forumrunner.com/forum/showthread.php?t=519" target="_new">este mensaje</a> de cómo configurar Google Analytics para Forum Runner. Si no deseas el seguimiento de datos analíticos, deja esta opción en blanco.]]></phrase>
+		<phrase name="setting_forumrunner_google_analytics_id_title" date="1337187728" username="vBHispano" version="4.1.12"><![CDATA[ID de la cuenta de Google Analytics]]></phrase>
+		<phrase name="setting_forumrunner_googleads_bottomthread_desc" date="1337188382" username="vBHispano" version="4.1.12"><![CDATA[Elegir "Sí", si deseas mostrar la publicidad en Forum Runner, en la parte inferior de cada tema (por encima del resumen del tema))]]></phrase>
+		<phrase name="setting_forumrunner_googleads_bottomthread_title" date="1337187634" username="vBHispano" version="4.1.12"><![CDATA[¿Posicionar la publicidad de Google o AdMob en la parte inferior de temas?]]></phrase>
+		<phrase name="setting_forumrunner_googleads_exclude_usergroups_desc" date="1337187604" username="vBHispano" version="4.1.12"><![CDATA[Una lista de ID de grupos de usuarios separados por coma. A los usuarios en estos grupos no se les mostrará publicidad de Google o de AdMob. Puedes obtener los IDs desde el Administrador de Grupos de Usuarios.]]></phrase>
+		<phrase name="setting_forumrunner_googleads_exclude_usergroups_title" date="1337187530" username="vBHispano" version="4.1.12"><![CDATA[Grupos de usuarios a quienes no se les mostrará publicidad de Google o AdMob]]></phrase>
+		<phrase name="setting_forumrunner_googleads_javascript_desc" date="1337187493" username="vBHispano" version="4.1.12"><![CDATA[Por favor ten en cuenta que si estás usando AdMob, rellenar el campo anterior. Este campo es solo para Adsense de Google. Indtroducir el código javascript para Adsense de Google móvil aquí. Revisar <a target="_new" href="http://www.forumrunner.com/forum/showthread.php?t=29">este mensaje</a> para instrucciones de como configurar Adsense de Google.]]></phrase>
+		<phrase name="setting_forumrunner_googleads_javascript_title" date="1337186810" username="vBHispano" version="4.1.12"><![CDATA[Javascript de Adsense de Google para móviles]]></phrase>
+		<phrase name="setting_forumrunner_googleads_onoff_desc" date="1337188382" username="vBHispano" version="4.1.12"><![CDATA[Elegir "Sí", si deseas que la publicidad de Adsense de Google o AdMob aparezca en los móviles de usuarios que utilicen la aplicación Forum Runner. Necesitarás <a target="_new" href="http://www.forumrunner.com/forum/showthread.php?t=29">seguir estas instrucciones</a> y completar las siguientes opciones para poner a funcionar esto.]]></phrase>
+		<phrase name="setting_forumrunner_googleads_onoff_title" date="1337186508" username="vBHispano" version="4.1.12"><![CDATA[¿Activar la integración de Adsense de Google o AdMob?]]></phrase>
+		<phrase name="setting_forumrunner_googleads_threadlist_desc" date="1337188382" username="vBHispano" version="4.1.12"><![CDATA[Elegir "Sí", si deseas que la publicidad de Adsense de Google o AdMob aparezca en la lista de temas (por encima del botón Cargar más temas).]]></phrase>
+		<phrase name="setting_forumrunner_googleads_threadlist_title" date="1337186442" username="vBHispano" version="4.1.12"><![CDATA[¿Mostrar la publicidad de Goolge o AdMob en la lista de temas?]]></phrase>
+		<phrase name="setting_forumrunner_googleads_topthread_desc" date="1337188382" username="vBHispano" version="4.1.12"><![CDATA[Elegir "Sí", si deseas que la publicidad de Adsense de Google o AdMob aparezca debajo del primer mensaje en la página de un tema.]]></phrase>
+		<phrase name="setting_forumrunner_googleads_topthread_title" date="1337186333" username="vBHispano" version="4.1.12"><![CDATA[¿Posicionar la publicidad de Google o AdMob en la parte superior del tema?]]></phrase>
+		<phrase name="setting_forumrunner_googleads_usergroups_desc" date="1337186310" username="vBHispano" version="4.1.12"><![CDATA[ID de grupos de usuarios separados por coma a quienes se les mostrara publicidad de Adsense de Google o AdMob. Puedes obtener los ID desde el Administrador de grupos de usuarios.]]></phrase>
+		<phrase name="setting_forumrunner_googleads_usergroups_title" date="1337186257" username="vBHispano" version="4.1.12"><![CDATA[Grupos de usuarios a quienes enviar publicidad de Google o AdMob]]></phrase>
+		<phrase name="setting_forumrunner_redirect_onoff_desc" date="1337188382" username="vBHispano" version="4.1.12"><![CDATA[Elegir "Sí" si deseas que Forum Runner avise a los usuarios que navegan el foro usando un navegador móvil en dispositivos compatibles y mostrarles un mensaje para hacerles saber que pueden usar el app Forum Runner para navegar nuestros foros. Si se activa y el usuario cancela el aviso, ya no serán avisados nuevamente.]]></phrase>
+		<phrase name="setting_forumrunner_redirect_onoff_title" date="1337186036" username="vBHispano" version="4.1.12"><![CDATA[¿Activar aviso de Forum Runner?]]></phrase>
+		<phrase name="setting_forumrunner_signature_desc" date="1337185994" username="vBHispano" version="4.1.12"><![CDATA[Permitir añadir a los mensajes la firma "Enviado desde mi <dispositivo>usando Forum Runner" a los usuarios que publiquen usando Forum Runner?]]></phrase>
+		<phrase name="setting_forumrunner_signature_title" date="1337185899" username="vBHispano" version="4.1.12"><![CDATA[¿Permitir firma de Forum Runner?]]></phrase>
+		<phrase name="settinggroup_forumrunner" date="1337188132" username="vBHispano" version="4.1.12"><![CDATA[Configuración de Forum Runner]]></phrase>
+	</phrasetype>
+</language>

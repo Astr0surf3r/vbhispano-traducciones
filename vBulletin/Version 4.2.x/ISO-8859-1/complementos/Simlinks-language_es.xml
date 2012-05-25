@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<language name="Español (es)" vbversion="4.2.0" product="skimlinks" type="phrases">
+	<phrasetype name="Control Panel Global" fieldname="cpglobal">
+		<phrase name="skimlinks_advanced_options" date="1329921944" username="vBHispano" version="4.1.10"><![CDATA[Opciones avanzadas de Skimlinks]]></phrase>
+		<phrase name="skimlinks_dissociate_account" date="1329921890" username="vBHispano" version="4.1.10"><![CDATA[Disociar cuenta]]></phrase>
+		<phrase name="skimlinks_gloabal_is_off" date="1329922187" username="vBHispano" version="4.1.10"><![CDATA[&nbsp;<br /><strong>Skimlinks está actualmente <span style="color: #ff0000;">desactivado</span> para tus foros.</strong><br /><br />Para activar Skimlinks, por favor <strong>activalo</strong> en las opciones globales abajo.<br /><br /><strong>Nota:</strong> Las opciones de configuración que has elegido toman efecto cuando Skinlinks está activado.<br />&nbsp;]]></phrase>
+		<phrase name="skimlinks_global_acc_details" date="1329922176" username="vBHispano" version="4.1.10"><![CDATA[Detalles de cuenta]]></phrase>
+		<phrase name="skimlinks_global_acc_info" date="1329922173" username="vBHispano" version="4.1.10"><![CDATA[Información de cuenta]]></phrase>
+		<phrase name="skimlinks_global_active_acc" date="1329922171" username="vBHispano" version="4.1.10"><![CDATA[Activar cuenta]]></phrase>
+		<phrase name="skimlinks_global_active_fail" date="1329922169" username="vBHispano" version="4.1.10"><![CDATA[<strong>Activación de la cuenta sin éxito</strong>]]></phrase>
+		<phrase name="skimlinks_global_active_new_acc" date="1329922167" username="vBHispano" version="4.1.10"><![CDATA[Activar nueva cuenta]]></phrase>
+		<phrase name="skimlinks_global_active_succ" date="1329922164" username="vBHispano" version="4.1.10"><![CDATA[<strong>Activación de cuenta con éxito </strong><br /><br />
+Felicitaciones, hemos activado tu cuenta de Skimlinks y tu ID de editor ha sido asociado con este plugin.<br /><br />
+<strong>Por favor hacer clic en finalizar para completar el proceso de activación.</strong><br />&nbsp;<br />
+Pronto recibirás un correo electrónico de bienvenida a la dirección proporcionada para tu cuenta de Skinlinks. Si no recibes el mensaje en los próximos minutos, por favor revisa tu carpeta de correo no deseado. Si todavía no está allí, por favor contactarse a <a href="mailto:support@skimlinks.com">support@skimlinks.com</a>.<br /><br />]]></phrase>
+		<phrase name="skimlinks_global_alert_js" date="1329922146" username="vBHispano" version="4.1.10"><![CDATA[Para finalizar la disociación de tu cuenta, por favor hacer clic en OK y luego en el botón Guardar en la página de opciones globales del plugin Skinlinks.\n\nUna vez hecho esto, la asociación de tu cuenta Skinlinks será removida de este plugin.\n\nLos productos Skimlinks ya no estarán activos en tu sitio.\n\nPara asociar otra cuenta Skinlinks, re-asociar la misma cuenta, o activar una nueva cuenta con este plugin, por favor utilizar los botones adecuados en la seción de onfiguración.]]></phrase>
+		<phrase name="skimlinks_global_all_req" date="1329922137" username="vBHispano" version="4.1.10"><![CDATA[Todos los campos son requeridos]]></phrase>
+		<phrase name="skimlinks_global_ass_acc" date="1329922133" username="vBHispano" version="4.1.10"><![CDATA[Asociar cuenta]]></phrase>
+		<phrase name="skimlinks_global_ass_ext_acc" date="1329922130" username="vBHispano" version="4.1.10"><![CDATA[Asociar cuenta existente]]></phrase>
+		<phrase name="skimlinks_global_ass_note" date="1329922126" username="vBHispano" version="4.1.10"><![CDATA[Para asociar tu cuenta Skinlinks con este plugin, todo lo que necesitas proporcionar es la <strong>dirección de correo electrónico asociada con tu cuenta Skimlinks</strong> y tu dominio del foro. ¡Nos encargaremos del resto!]]></phrase>
+		<phrase name="skimlinks_global_ass_succ" date="1329922115" username="vBHispano" version="4.1.10"><![CDATA[<strong> Asociación de cuenta exitosa</strong><br /><br />
+Felicidades, hemos asociado satisfactoriamente tu cuenta de Skimlinks y el ID de editor ha sido añadido a este plugin.<br />&nbsp;<br />
+<strong>Por favor hacer clic en finalizar para completar el proceso de asociación.</strong><br />&nbsp;<br />]]></phrase>
+		<phrase name="skimlinks_global_back" date="1329922084" username="vBHispano" version="4.1.10"><![CDATA[Regresar]]></phrase>
+		<phrase name="skimlinks_global_cancel" date="1329922082" username="vBHispano" version="4.1.10"><![CDATA[Cancelar]]></phrase>
+		<phrase name="skimlinks_global_confirm" date="1329922079" username="vBHispano" version="4.1.10"><![CDATA[Confirmar]]></phrase>
+		<phrase name="skimlinks_global_confirm_ass" date="1329922290" username="vBHispano" version="4.1.10"><![CDATA[Por favor confirmar que los detalles proporcionados son correctos y asegurarse de que podamos asociar tu cuenta de Skimlinks de inmediato.]]></phrase>
+		<phrase name="skimlinks_global_confirm_js" date="1329922288" username="vBHispano" version="4.1.10"><![CDATA[Por favor confirmar que deseas eliminar la asociación entre tu cuenta de Skimlinks y este plugin. De este modo, todos los productos Skimlinks serán inmediatamente desactivados en este foro.\n\nSiempre puedes asociar una cuenta Skimliks diferente, re-asociar la misma cuenta, o activar una nueva cuenta desde la sección de configuración de este plugin.]]></phrase>
+		<phrase name="skimlinks_global_confirm_note" date="1329922284" username="vBHispano" version="4.1.10"><![CDATA[Por favor confirmar que los detalles proporcionados son correctos antes de crear tu cuenta. La dirección de correo electrónico que proporciones se convertirá en el nombre de usuario de tu cuenta Skimlinks y a donde enviaremos toda la información de tu cuenta, detalles de actualizaciones, así que por favor estar seguro de que este campo está correcto.]]></phrase>
+		<phrase name="skimlinks_global_create_acc" date="1329922279" username="vBHispano" version="4.1.10"><![CDATA[Crear cuenta]]></phrase>
+		<phrase name="skimlinks_global_domain" date="1329922276" username="vBHispano" version="4.1.10"><![CDATA[Dominio]]></phrase>
+		<phrase name="skimlinks_global_edit_info" date="1329922273" username="vBHispano" version="4.1.10"><![CDATA[Editar información]]></phrase>
+		<phrase name="skimlinks_global_email" date="1329922271" username="vBHispano" version="4.1.10"><![CDATA[Dirección de correo electrónico]]></phrase>
+		<phrase name="skimlinks_global_enable" date="1329922269" username="vBHispano" version="4.1.10"><![CDATA[Activar la tecnología Skimlinks globalmente en tus foros aquí:]]></phrase>
+		<phrase name="skimlinks_global_enter" date="1329922265" username="vBHispano" version="4.1.10"><![CDATA[Enviar]]></phrase>
+		<phrase name="skimlinks_global_finish" date="1329922263" username="vBHispano" version="4.1.10"><![CDATA[Finalizar]]></phrase>
+		<phrase name="skimlinks_global_is_free" date="1329922259" username="vBHispano" version="4.1.10"><![CDATA[Registrarse con Skimlinks es grátis, toma apenas un poco de tiempo, y te permite empezar a ganar a través de la tecnología Skimlinks inmediatamente. Sólo necesitamos lo básico para empezar. Rellena el siguiente formulario y tu cuenta Skimlinks será activada inmediatamente y lista para funcionar.]]></phrase>
+		<phrase name="skimlinks_global_name" date="1329922255" username="vBHispano" version="4.1.10"><![CDATA[Nombre completo]]></phrase>
+		<phrase name="skimlinks_global_ness_acc" date="1329922253" username="vBHispano" version="4.1.10"><![CDATA[Este campo es necesario para activar tu cuenta]]></phrase>
+		<phrase name="skimlinks_global_ness_ass" date="1329922251" username="vBHispano" version="4.1.10"><![CDATA[Este campo es necesario para asociar tu cuenta]]></phrase>
+		<phrase name="skimlinks_global_new_setup" date="1329922249" username="vBHispano" version="4.1.10"><![CDATA[Si eres nuevo en Skimlinks, simplemente activa tu nueva cuenta. Si ya eres un editor de Skimlinks, asocia tu cuenta existente con este plugin.]]></phrase>
+		<phrase name="skimlinks_global_next_step" date="1329922246" username="vBHispano" version="4.1.10"><![CDATA[Próximo paso]]></phrase>
+		<phrase name="skimlinks_global_return_to" date="1329922239" username="vBHispano" version="4.1.10"><![CDATA[Regresar a opciones globales]]></phrase>
+		<phrase name="skimlinks_global_setup" date="1329922371" username="vBHispano" version="4.1.10"><![CDATA[Configurar]]></phrase>
+		<phrase name="skimlinks_global_status" date="1329922369" username="vBHispano" version="4.1.10"><![CDATA[Configurar - estado]]></phrase>
+		<phrase name="skimlinks_global_tos_note" date="1329922366" username="vBHispano" version="4.1.10"><![CDATA[<small style="display: block; margin: 8px 0;"><strong>Nota:</strong>
+Al activar tu cuenta Skimlinks, estás aceptando apegarte a los <a href="http://skimlinks.com/terms/vbulletin" target="_blank"> términos de servicio</a> de Skinlinks. Este contrato se celebrará entre usted y Skimlinks. Podrás hacer un seguimiento de los ingresos de tu sitio mediante Skimlinks ingresando a tu cuenta Skimlinks, y los ingresos generados por el uso de Skimlinks serán aplicados a la cuenta asociada de Skimlinks.
+Los detalles aquí proveídos serán enviados a Skimlinks y tu cuenta será activada inmediatamente.
+<br /><br />Por favor agrega <a href="mailto:support@skimlinks.com">support@skimlinks.com</a> a la lista segura de tu correo ya que cualquier contacto por correo de Skimlinks, incluyendo tu información de cuenta y de ingreso, llegarán desde esta dirección.</small>]]></phrase>
+		<phrase name="skimlinks_global_valid_email" date="1329922355" username="vBHispano" version="4.1.10"><![CDATA[Por favor ingresar una dirección de correo electrónico válida]]></phrase>
+		<phrase name="skimlinks_global_website_info" date="1329922353" username="vBHispano" version="4.1.10"><![CDATA[Información de sitio web]]></phrase>
+		<phrase name="skimlinks_plugin" date="1329922337" username="vBHispano" version="4.1.10"><![CDATA[Plugin Skimlinks]]></phrase>
+		<phrase name="skimlinks_product_level_options" date="1329922325" username="vBHispano" version="4.1.10"><![CDATA[Opciones de nivel de producto]]></phrase>
+		<phrase name="skimlinks_product_level_options_description" date="1329922322" username="vBHispano" version="4.1.10"><![CDATA[Puedes controlar la activación de los productos SkimLinks y SkimWords de varias maneras, incluyendo por grupos de usuario, secciones de tu foro, edad de tus temas, y permitiendo a tus usuarios activar el producto por ellos mismos.
+<br />Por favor, visita  la página de "Opciones avanzadas" desde el menú en la izquierda para ver y configurar estas opciones.]]></phrase>
+		<phrase name="skimlinks_to_enable_products" date="1329922632" username="vBHispano" version="4.1.10"><![CDATA[Para activar y configurar productos específicos de Skimlinks, por favor visita la <a href="https://accounts.skimlinks.com/settings" target="_blank">Interfaz de editor de Skimlinks</a>.<br />Desde allí puedes seguir configurando tu cuenta de Skimlinks y la configuración, ver detalles del tráfico y reportes de ingresos. Todos los ingresos obtenidos se entregarán a tu cuenta de Skimlinks]]></phrase>
+		<phrase name="unsaved_changes_may_be_lost" date="1337152483" username="vBHispano" version="4.1.12"><![CDATA[Hay cambios sin guardar en la página que podrían perderse.]]></phrase>
+	</phrasetype>
+	<phrasetype name="Control Panel Home Pages" fieldname="cphome">
+		<phrase name="skimlinks_global_options" date="1329922243" username="vBHispano" version="4.1.10"><![CDATA[Opciones globales de SkimLinks]]></phrase>
+		<phrase name="skimlinks_options" date="1329922349" username="vBHispano" version="4.1.10"><![CDATA[Opciones de SkimLinks]]></phrase>
+		<phrase name="skimwords_options" date="1329922616" username="vBHispano" version="4.1.10"><![CDATA[Opciones de SkimWords]]></phrase>
+	</phrasetype>
+	<phrasetype name="Control Panel Options" fieldname="cpoption">
+		<phrase name="allow_users_to_disable_skimlinks" date="1329860526" username="vBHispano" version="4.1.10"><![CDATA[Permitir a los usuarios desactivar Skimlinks]]></phrase>
+		<phrase name="skimlinks_activate_in_all_threads" date="1329921982" username="vBHispano" version="4.1.10"><![CDATA[Todos los temas]]></phrase>
+		<phrase name="skimlinks_activate_in_only_threads_last_post_older_than" date="1329921981" username="vBHispano" version="4.1.10"><![CDATA[Solo los temas con último mensaje más viejo que:]]></phrase>
+		<phrase name="skimlinks_activate_products" date="1329921979" username="vBHispano" version="4.1.10"><![CDATA[Activar productos Skimlinks...]]></phrase>
+		<phrase name="skimlinks_activate_products_within_these_forums" date="1329921975" username="vBHispano" version="4.1.10"><![CDATA[Activar los productos Skimlinks dentro de estos foros:]]></phrase>
+		<phrase name="skimlinks_activate_skimlinks_in" date="1329921971" username="vBHispano" version="4.1.10"><![CDATA[Activar SkimLinks en...]]></phrase>
+		<phrase name="skimlinks_activate_skimwords_in" date="1329921967" username="vBHispano" version="4.1.10"><![CDATA[Activar SkimWords en...]]></phrase>
+		<phrase name="skimlinks_active_in_forums" date="1329921962" username="vBHispano" version="4.1.10"><![CDATA[SkimLinks será activado dentro de los siguientes foros:]]></phrase>
+		<phrase name="skimlinks_active_usergroups" date="1329921960" username="vBHispano" version="4.1.10"><![CDATA[SkimLinks estará activo para usuarios en los siguientes grupos de usuarios:]]></phrase>
+		<phrase name="skimlinks_advanced_options_help" date="1329921929" username="vBHispano" version="4.1.10"><![CDATA[<b>SkimLinks</b> convertirá enlaces automáticamente para comerciantes (eBay, Amazon, Bestbuy etc.)
+que los usuarios del foro han añadido a enlaces de afiliados al hacerles clic.
+Si se realiza una venta, tú ganarás una comisión.
+Esto es virtualmente invisible para los usuarios de tu foro (se añade una pequeña re-dirección en seguimientos),
+así que se recomienda activarlo para <b>todos</b> los grupos de usuarios en el foro.<br />
+<br />
+<b>SkimWords</b> Convertirá automáticamente referencias de productos en mensajes a enlaces de compra.
+Ya que SkimWords agrega enlaces donde no los había antes, es visible a los usuarios finales. Sin embargo, es son bien especificados y nunca agrega demasiados enlaces a la página.
+Para la mejor oportunidad de ingresos se recomienda activar para <b>todos</b> los grupos de usuarios y foros.<br />
+<br />
+Puedes ocultar características de SkimWords y SkimLInks de los visitantes pertenecientes a grupos de usuarios específicos, desactivando para foros completos, por la edad de los temas, y permitiendo al usuario controlar la activación de los prodcutos.<br />
+Tener en cuenta que si los usuarios pertenecen a <em>cualquier</em> grupo de usuario que tiene SkimLinks o SkimWords desactivado, esto desactivará SkimLinks o SkimWords para ellos independientemente de su pertenencia a grupos que puedan tener SkimLinks o SkimWords activado.<br />
+<br />
+<b>Nota</b>: Por favor asegurarse de que SkimLinks y SkimWords están activados en tu <a href="https://accounts.skimlinks.com/settings" target="_blank">Interfaz de editor de Skimlinks</a>.]]></phrase>
+		<phrase name="skimlinks_days" date="1329921896" username="vBHispano" version="4.1.10"><![CDATA[días]]></phrase>
+		<phrase name="skimlinks_enabled" date="1329922191" username="vBHispano" version="4.1.10"><![CDATA[Activar Skimlinks]]></phrase>
+		<phrase name="skimlinks_for_visitors_in_these_usergroups" date="1329922189" username="vBHispano" version="4.1.10"><![CDATA[Para visitantes en estos grupos de usuarios:]]></phrase>
+		<phrase name="skimlinks_global_settings_description" date="1329922378" username="vBHispano" version="4.1.10"><![CDATA[Si has seleccionado 'On' y tu ID de editor está presente, ¡Skimlinks se activará ent us foros!]]></phrase>
+		<phrase name="skimlinks_in_posts_by_these_usergroups" date="1329922351" username="vBHispano" version="4.1.10"><![CDATA[En mensajes creados por estos grupos de usuarios:]]></phrase>
+		<phrase name="skimlinks_options_description" date="1329922346" username="vBHispano" version="4.1.10"><![CDATA[<b>SkimLinks</b> convertirá automáticamente enlaces para comerciantes (eBay, Amazon, Bestbuy etc.)
+que los usuarios del foro han añadido a enlaces de afiliados al hacerles clic.
+Si se realiza una venta, tú ganarás una comisión.
+Esto es virtualmente invisible para los usuarios de tu foro (se añade una pequeña re-dirección en seguimientos),
+así que se recomienda activarlo para <b>todos</b> los grupos de usuarios en el foro.<br />
+<br />
+Puedes ocultar características de SkimLinks de los visitantes pertenecientes a grupos de usuarios específicos, desactivando para foros completos, por la edad de los temas, y permitiendo al usuario controlar la activación de los prodcutos.<br />
+Tener en cuenta que si los usuarios pertenecen a <em>cualquier</em> grupo de usuario que tiene SkimLinks desactivado, esto desactivará SkimLinks para ellos independientemente de su pertenencia a grupos que puedan tener SkimLinks activado.<br />
+<b>Nota</b>: Por favor asegurarse de que SkimLinks está activado en tu <a href="https://accounts.skimlinks.com/settings" target="_blank">Interfaz de editor de Skimlinks</a>.]]></phrase>
+		<phrase name="skimlinks_options_hint" date="1329922340" username="vBHispano" version="4.1.10"><![CDATA[Puedes controlar la activación de los productos SkimLinks y SkimWords de varias formas, incluyendo por grupos de usuarios, secciones de tus foros, edad de los temas, y permitiendo a los usuarios controlar la activación de los productos por ellos mismos<br />Por favor visita la página de configuración avanzada del menú de la izquierda para ver y configurar estas opciones.]]></phrase>
+		<phrase name="skimlinks_plugin_description" date="1329922334" username="vBHispano" version="4.1.10"><![CDATA[<a href="http://skimlinks.me/vbhome" target="_blank">Skimlinks</a> es una tecnología simple y fácil de monetización para tus foros, disponible en dos productos:<br /><br /><strong>• SkimLinks</strong> convierte enlaces existentes de comerciantes en enlaces de afiliados instantaneamente.<br /><br /><strong>• SkimWords</strong> convierte referencias de productos en tu contenido en enlaces a los mejores comerciantes para esos productos.<br /><br />Trabajamos con más de 12,000 minoristas de todo el mundo, premiandote por el rol que desempeña tus foros creando e informando intenciones de compras.<br />Encuentra más sobre <a href="http://skimlinks.com/video" target="_blank">cómo funciona Skimlinks</a>, o <a href="http://skimlinks.me/vbcontact" target="_blank">Contáctenos</a> si tiene cualquier pregunta.<br /><br />Utiliza este panel para activar Skimlinks rápidamente en tu foro vBulletin y configurar cuándo aparece a tus usuarios.]]></phrase>
+		<phrase name="skimlinks_product_activation_based_on_age_of_thread" date="1329922327" username="vBHispano" version="4.1.10"><![CDATA[Limitar activación de productos Skimlinks basado en la edad de temas]]></phrase>
+		<phrase name="skimlinks_products_will_be_active_in_these_usergroups" date="1329922318" username="vBHispano" version="4.1.10"><![CDATA[Activa productos para los visitantes en estos grupos:]]></phrase>
+		<phrase name="skimlinks_products_will_be_active_posts_by_these_usergroups" date="1329922316" username="vBHispano" version="4.1.10"><![CDATA[Activar productos para los mensajes hechos por estos grupos:]]></phrase>
+		<phrase name="skimlinks_pub_id" date="1329922314" username="vBHispano" version="4.1.10"><![CDATA[ID de editor de Skimlinks]]></phrase>
+		<phrase name="skimlinks_time_limit_note" date="1329922636" username="vBHispano" version="4.1.10"><![CDATA[<strong>Nota:</strong> Estos ajustes son ejecutados después, pero respetan plenamente y están en adición a, cualquier configuración en las secciones de <em>grupos</em> y <em>foros</em> arriba.
+Por ejemplo, si has elegido desactivar SkimWords para Moderadores y solo tienes SkimWords activo en mensajes más viejos que un día, cualquier mensaje por moderadores con más de un día serán igual excluidos.]]></phrase>
+		<phrase name="skimlinks_user_disable_explain_text_dfn" date="1329922627" username="vBHispano" version="4.1.10"><![CDATA[Este es el tecto que se mostrará a los usuarios cuando esta opción esta activada completamente, explicando qué es SkimLinks y que ellos pueden elegir desactivar si lo desean.<br />
+<br />
+<strong>Nota</strong>: El texto incluido es una sugerencia, pero es completamente editable para satisfacer tus necesidades.]]></phrase>
+		<phrase name="skimlinks_user_disable_explain_text_label" date="1329922623" username="vBHispano" version="4.1.10"><![CDATA[Texto de explicación para utilizar con esta opción:]]></phrase>
+		<phrase name="skimwords_active_in_forums" date="1329922621" username="vBHispano" version="4.1.10"><![CDATA[SkimWords estará activo dentro de los siguientes foros:]]></phrase>
+		<phrase name="skimwords_active_usergroups" date="1329922620" username="vBHispano" version="4.1.10"><![CDATA[SkimWords estará activo para usuarios viendo en los siguientes grupos:]]></phrase>
+		<phrase name="skimwords_options_description" date="1329922608" username="vBHispano" version="4.1.10"><![CDATA[<b>SkimWords</b> Convertirá automáticamente referencias de productos en mensajes a enlaces de compra.
+Ya que SkimWords agrega enlaces donde no los había antes, es visible a los usuarios finales. Sin embargo, es son bien especificados y nunca agrega demasiados enlaces a la página.
+Para la mejor oportunidad de ingresos se recomienda activar para <b>todos</b> los grupos de usuarios y foros.<br />
+
+Puedes ocultar características de SkimWords de los visitantes pertenecientes a grupos de usuarios específicos, desactivando para foros completos, por la edad de los temas, y permitiendo al usuario controlar la activación de los prodcutos.<br />
+Tener en cuenta que si los usuarios pertenecen a <em>cualquier</em> grupo de usuario que tiene SkimWords desactivado, esto desactivará SkimWords para ellos independientemente de su pertenencia a grupos que puedan tener SkimWords activado.<br />
+<br />
+<b>Nota</b>: Por favor asegurarse de que SkimWords está activado en tu <a href="https://accounts.skimlinks.com/settings" target="_blank">página de admin de editor de configuración</a>.]]></phrase>
+		<phrase name="users_can_disable_skimlinks" date="1329922401" username="vBHispano" version="4.1.10"><![CDATA[Los usuarios pueden elegir desactivar Skimlinks]]></phrase>
+	</phrasetype>
+	<phrasetype name="User Tools (global)" fieldname="user">
+		<phrase name="skimlinks_enabled" date="1329921883" username="vBHispano" version="4.1.10"><![CDATA[Skimlinks activado]]></phrase>
+	</phrasetype>
+	<phrasetype name="vBulletin Settings" fieldname="vbsettings">
+		<phrase name="setting_skimlinks_allow_user_disable_desc" date="1329860613" username="vBHispano" version="4.1.10"><![CDATA[Si se activa esto, los usuarios podrán desactivar el sistema SkimLinks ellos mismos a través de sus opciones.]]></phrase>
+		<phrase name="setting_skimlinks_allow_user_disable_title" date="1329860609" username="vBHispano" version="4.1.10"><![CDATA[Permitir a los usuarios desactivar SkimLinks ]]></phrase>
+		<phrase name="setting_skimlinks_disable_forums_desc" date="1329860603" username="vBHispano" version="4.1.10"><![CDATA[Los IDs de foros listados aquí no mostrarán SkimLinks. (JSON)]]></phrase>
+		<phrase name="setting_skimlinks_disable_forums_title" date="1329860598" username="vBHispano" version="4.1.10"><![CDATA[Desactivar SkimLinks en foros]]></phrase>
+		<phrase name="setting_skimlinks_disable_groups_desc" date="1329862681" username="vBHispano" version="4.1.10"><![CDATA[IDs de grupos listados aquí no mostrarán SkimLinks. (JSON)]]></phrase>
+		<phrase name="setting_skimlinks_disable_groups_parse_desc" date="1329861644" username="vBHispano" version="4.1.10"><![CDATA[IDs de grupos listados aquí no mostrarán SkimLinks en sus enlaces publicados. (JSON)]]></phrase>
+		<phrase name="setting_skimlinks_disable_groups_parse_title" date="1329861626" username="vBHispano" version="4.1.10"><![CDATA[Prevenir 'SkimLinking' en enlaces publicados por grupos]]></phrase>
+		<phrase name="setting_skimlinks_disable_groups_title" date="1329861608" username="vBHispano" version="4.1.10"><![CDATA[Ocultar SkimLinks de grupos]]></phrase>
+		<phrase name="setting_skimlinks_enabled_desc" date="1329861602" username="vBHispano" version="4.1.10"><![CDATA[Deseo utilizar los productos de SkimLinks en este foro]]></phrase>
+		<phrase name="setting_skimlinks_enabled_title" date="1329861600" username="vBHispano" version="4.1.10"><![CDATA[Skimlinks activado]]></phrase>
+		<phrase name="setting_skimlinks_pub_id_desc" date="1329861598" username="vBHispano" version="4.1.10"><![CDATA[Ingresa tu ID de editor de Skimlinks aquí.<br />
+<a href="http://skimlinks.com/?menu=login&amp;return=domainlist" target="_blank">Obtener mi ID de editor</a>]]></phrase>
+		<phrase name="setting_skimlinks_pub_id_title" date="1329861587" username="vBHispano" version="4.1.10"><![CDATA[ID de editor de Skimlinks ]]></phrase>
+		<phrase name="setting_skimlinks_salt_desc" date="1297846892" username="Admin" version="2.0.7"><![CDATA[Salt de Skimlinks]]></phrase>
+		<phrase name="setting_skimlinks_salt_title" date="1297846892" username="Admin" version="2.0.7"><![CDATA[Salt de Skimlinks]]></phrase>
+		<phrase name="setting_skimlinks_thread_age_limit_desc" date="1329861583" username="vBHispano" version="4.1.10"><![CDATA[Activar SkimLinks solo en los temas cuyo último mensaje es más viejo que esta cantidad de días.]]></phrase>
+		<phrase name="setting_skimlinks_thread_age_limit_title" date="1329861577" username="vBHispano" version="4.1.10"><![CDATA[Límite de edad de temas para SkimLinks]]></phrase>
+		<phrase name="setting_skimlinks_user_disable_description_desc" date="1329861570" username="vBHispano" version="4.1.10"><![CDATA[Este es el texto que se mostrará a los usuarios cuando está opción esté activada, explicando qué es SkimLinks y de que pueden elegir desactivarlo si lo desean. (<strong>Nota</strong>: el texto incluido es una sugerencia, es completamente editable para satisfacer tus necesidades.)]]></phrase>
+		<phrase name="setting_skimlinks_user_disable_description_title" date="1329861562" username="vBHispano" version="4.1.10"><![CDATA[Texto de descripción de la opción de desactivado de SkimLinks del usuario]]></phrase>
+		<phrase name="setting_skimwords_disable_forums_desc" date="1329861558" username="vBHispano" version="4.1.10"><![CDATA[Los IDs de foros listados aquí, no mostrarán SkinWords. (JSON)]]></phrase>
+		<phrase name="setting_skimwords_disable_forums_title" date="1329861531" username="vBHispano" version="4.1.10"><![CDATA[Desactivar SkimWords en los foros]]></phrase>
+		<phrase name="setting_skimwords_disable_groups_desc" date="1329861518" username="vBHispano" version="4.1.10"><![CDATA[Los IDs de grupos listados aquí, no verán SkinWords. (JSON)]]></phrase>
+		<phrase name="setting_skimwords_disable_groups_parse_desc" date="1329861487" username="vBHispano" version="4.1.10"><![CDATA[Los IDs de grupos listados aquí no mostrarán SkinWords en los enlaces publicados en sus mensajes. (JSON)]]></phrase>
+		<phrase name="setting_skimwords_disable_groups_parse_title" date="1329861470" username="vBHispano" version="4.1.10"><![CDATA[Prevenir 'SkimWord' en enlaces publicados por grupos]]></phrase>
+		<phrase name="setting_skimwords_disable_groups_title" date="1329861463" username="vBHispano" version="4.1.10"><![CDATA[Ocultar SkimWords de grupos]]></phrase>
+		<phrase name="setting_skimwords_thread_age_limit_desc" date="1329863250" username="vBHispano" version="4.1.10"><![CDATA[Activar SkimWords solo en temas cuyo último mensaje es más viejo que esta cantidad de días.]]></phrase>
+		<phrase name="setting_skimwords_thread_age_limit_title" date="1329863246" username="vBHispano" version="4.1.10"><![CDATA[Límite de edad de tema para SkimWord]]></phrase>
+	</phrasetype>
+</language>
