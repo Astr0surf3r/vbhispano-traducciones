@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<language name="Español (es)" vbversion="4.2.0" product="postrelease" type="phrases">
+	<phrasetype name="vBulletin Settings" fieldname="vbsettings">
+		<phrase name="setting_postrelease_enable_desc" date="1337924369" username="vBHispano" version="4.2.0"><![CDATA[¿Te gustaría activar PostRelease?]]></phrase>
+		<phrase name="setting_postrelease_enable_title" date="1337924353" username="vBHispano" version="4.2.0"><![CDATA[Activo]]></phrase>
+		<phrase name="setting_postrelease_optout_desc" date="1337924348" username="vBHispano" version="4.2.0"><![CDATA[Opcional: puedes elegir excluir algunos grupos de usuarios de que vean contenido de PostRelease ingresando Ids de grupos aquí. <br />Utilizar comas para separar grupos múltiples. Ejemplo: 1,2,3]]></phrase>
+		<phrase name="setting_postrelease_optout_title" date="1337924246" username="vBHispano" version="4.2.0"><![CDATA[Grupo de usuarios en lista negra]]></phrase>
+	</phrasetype>
+</language>
