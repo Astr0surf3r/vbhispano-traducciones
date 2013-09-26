@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<language name="Español (es)" vbversion="4.2.0" product="forumrunner" type="phrases">
+<language name="Español (es)" vbversion="4.2.1" product="forumrunner" type="phrases">
 	<phrasetype name="Scheduled Tasks" fieldname="cron">
 		<phrase name="task_forumrunnerpush_desc" date="1337153891" username="vBHispano" version="4.1.12"><![CDATA[Esto se ejecuta cada 10 minutos y pone en cola notificaciones de mensajes privado y suscripciones a temas para ser enviadas a los servidores de Forum Runner para ser distribuidas a los usuarios que usan Forum Runner. No envía ningún dato personal.]]></phrase>
 		<phrase name="task_forumrunnerpush_title" date="1337153719" username="vBHispano" version="4.1.12"><![CDATA[Notificaciones Push de Forum Runner]]></phrase>

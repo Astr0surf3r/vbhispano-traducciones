@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<language name="Español (es)" vbversion="4.2.0" product="vbblog" type="phrases">
+<language name="Español (es)" vbversion="4.2.1" product="vbblog" type="phrases">
 	<phrasetype name="Activity Stream" fieldname="activitystream">
 		<phrase name="guest_x_commented_on_blog_entry_y_in_z" date="1337399158" username="vBHispano" version="4.2.0 Beta 1"><![CDATA[{1} comentó la entrada de blog <a href="{2}">{3}</a> en <a href="{4}">{5}</a>]]></phrase>
 		<phrase name="x_commented_on_blog_entry_y_in_z" date="1337399250" username="vBHispano" version="4.2.0 Beta 1"><![CDATA[<a href="{1}" class="username">{2}</a> comentó la entrada de blog <a href="{3}">{4}</a> en <a href="{5}">{6}</a>]]></phrase>

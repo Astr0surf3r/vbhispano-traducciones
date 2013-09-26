@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
-<language name="Español (es)" vbversion="4.2.0" product="postrelease" type="phrases">
+<language name="Español (es)" vbversion="4.2.1" product="postrelease" type="phrases">
 	<phrasetype name="vBulletin Settings" fieldname="vbsettings">
 		<phrase name="setting_postrelease_enable_desc" date="1337924369" username="vBHispano" version="4.2.0"><![CDATA[¿Te gustaría activar PostRelease?]]></phrase>
 		<phrase name="setting_postrelease_enable_title" date="1337924353" username="vBHispano" version="4.2.0"><![CDATA[Activo]]></phrase>

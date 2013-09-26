@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<language name="Español (es)" vbversion="4.2.0" product="vbulletin" type="custom">
+<language name="Español (es)" vbversion="4.2.1" product="vbulletin" type="custom">
 	<settings>
 		<options><![CDATA[1]]></options>
 		<languagecode><![CDATA[es]]></languagecode>

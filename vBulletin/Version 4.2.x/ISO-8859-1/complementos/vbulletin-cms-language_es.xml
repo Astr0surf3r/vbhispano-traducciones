@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
-<language name="Español (es)" vbversion="4.2.0" product="vbcms" type="phrases">
+<language name="Español (es)" vbversion="4.2.1" product="vbcms" type="phrases">
 	<phrasetype name="Activity Stream" fieldname="activitystream">
 		<phrase name="guest_x_commented_on_an_article_y_in_z" date="1337399158" username="vBHispano" version="4.2.0 Beta 1"><![CDATA[{1} comentó el artículo <a href="{2}">{3}</a> en <a href="{4}">{5}</a>]]></phrase>
 		<phrase name="guest_x_created_an_article_y_in_z" date="1337749126" username="vBHispano" version="4.2.0"><![CDATA[{1} publicó el artículo <a href="{2}">{3}</a> en <a href="{4}">{5}</a>]]></phrase>
@@ -427,7 +427,7 @@ La localización puede aparecer en cualquier lugar en el HTML, pero la primera lo
 <p>NOTA: La opción de vista previa debe ser seleccionada en la sección de opciones también.</p>]]></phrase>
 		<phrase name="cms_articles_preview_add" date="1297152113" username="Admin" version="4.1.2 Beta 1"><![CDATA[<ol>
 <li>Bien puedes crear un artículo o editar uno existente. </li>
-<li>Seleccionar la opción “Sí” a la derecha del encabezado “Vista previa”.
+<li>Seleccionar la opción "Sí" a la derecha del encabezado "Vista previa".
 <div style="text-align:center;margin:0;padding:4px;border:0;"><img src="images/help/article_preview_set.png" height="276" width="494" alt="Fijar vista previa" /></div></li>
 <li>Hacer clic al botón guardar.
 <div style="text-align:center;margin:0;padding:4px;border:0;"><img src="images/help/article_toolbar.png" height="57" width="302" alt="Barra de herramientas" /></div></li>
@@ -469,7 +469,7 @@ La opción "Nuevos primero" hará que los artículos más nuevos publicados en ambas
 <li>Ir a la sección a la que deseas cambiar el diseño.</li>
 <li>Pasar el ratón sobre la cabecera. Debería aparecer un icono de lápiz.<br /><img style="align:center;border:0px" src="images/help/section_home.png" alt="Editar sección" height="50" width="572"></li>
 <li>Hacer clic en el icono de lápiz.</li> 
-<li>En el editor de sección, elegir el diseño de contenido que deseas desde el menú desplegable “Diseño de contenido” .<br /><img style="align:center;border:0px" src="images/help/section_contentcolumns.png" alt="Section Content Layout" height="352" width="587"></li>
+<li>En el editor de sección, elegir el diseño de contenido que deseas desde el menú desplegable "Diseño de contenido" .<br /><img style="align:center;border:0px" src="images/help/section_contentcolumns.png" alt="Section Content Layout" height="352" width="587"></li>
 <li>Hacer clic en <Guardar><br /><img style="align:center;border:0px" src="images/help/section_toolbar.png" alt="Barra de herramientas de sección" height="57" width="302"></li>
 </ol>]]></phrase>
 		<phrase name="vbcms_faq" date="1277330246" username="Elmer" version="4.0.4"><![CDATA[El CMS de vBulletin te permite a ti y a los usuarios crear, editar y publicar artículos directamente a tu sitio. Combina un administrador de contenido simple de usar con un sistema único organizado que te permite controlar hasta los detalles más pequeños del sitio desde la cantidad de secciones, hasta el diseño general, la asignación de widgets y desplegados en cada página.]]></phrase>
@@ -491,7 +491,7 @@ La opción "Nuevos primero" hará que los artículos más nuevos publicados en ambas
 <li>Ir a la sección a la que deseas cambiar el diseño.</li>
 <li>Pasar el ratón sobre la cabecera. Debería aparecer un icono de lápiz.<br /><img style="align:center;border:0px" src="images/help/section_home.png" alt="Editar sección" height="50" width="572"></li>
 <li>Hacer clic en el icono de lápiz.</li> 
-<li>En el editor de sección, elegir un nuevo diseño desde el menú desplegable “Diseño de sección”.<br /><img style="align:center;border:0px" src="images/help/section_layout.png" alt="Cambiar diseño de sección" height="351" width="710"></li>
+<li>En el editor de sección, elegir un nuevo diseño desde el menú desplegable "Diseño de sección".<br /><img style="align:center;border:0px" src="images/help/section_layout.png" alt="Cambiar diseño de sección" height="351" width="710"></li>
 <li>Hacer clic en el botón <Guardar></li>
 </ol>]]></phrase>
 		<phrase name="vbcms_section_perpage" date="1297159184" username="Admin" version="4.1.2 Beta 1"><![CDATA[<ol>
@@ -499,7 +499,7 @@ La opción "Nuevos primero" hará que los artículos más nuevos publicados en ambas
 <li>Ir a la sección a la que deseas cambiar.</li>
 <li>Pasar el ratón sobre la cabecera. Debería aparecer un icono de lápiz.<br /><img style="align:center;border:0px" src="images/help/section_home.png" alt="Editar sección" height="50" width="572"></li>
 <li>Hacer clic en el icono de lápiz.</li> 
-<li>En el editor de sección, ingresar el número de artículos que deseas desplegar en el campo de texto “Por página”.<br /><img style="align:center;border:0px" src="images/help/section_perpage.png" alt="Sección - Artículos por página" height="346" width="555"></li>
+<li>En el editor de sección, ingresar el número de artículos que deseas desplegar en el campo de texto "Por página".<br /><img style="align:center;border:0px" src="images/help/section_perpage.png" alt="Sección - Artículos por página" height="346" width="555"></li>
 <li>Hacer clic en el botón <Guardar><br /><img style="align:center;border:0px" src="images/help/section_toolbar.png" alt="Barra de herramientas de sección" height="57" width="302"></li>
 </ol>]]></phrase>
 		<phrase name="vbcms_section_rename" date="1297149376" username="Admin" version="4.1.2 Beta 1"><![CDATA[Puedes cambiar el nombre a una sección en la porción visible del sitio para el usuario de tu comunidad vBulletin si tienes los permisos apropiados. 
@@ -508,7 +508,7 @@ La opción "Nuevos primero" hará que los artículos más nuevos publicados en ambas
 <li>Ir a la sección a la que deseas cambiarle el nombre.</li>
 <li>Pasar el ratón sobre la cabecera. Debería aparecer un icono de lápiz.<br /><img style="align:center;border:0px" src="images/help/section_home.png" alt="Editar sección" height="50" width="572"></li>
 <li>Hacer clic en el icono de lápiz.</li> 
-<li>En el editor de sección, borrar el contenido del campo de texto “Nnombre:” en la sección “Información” .<br /><img style="align:center;border:0px" src="images/help/section_name.png" alt="Editar nombre de sección" height="270" width="613"></li>
+<li>En el editor de sección, borrar el contenido del campo de texto "Nnombre:" en la sección "Información" .<br /><img style="align:center;border:0px" src="images/help/section_name.png" alt="Editar nombre de sección" height="270" width="613"></li>
 <li>Ingresar el nuevo nombre para la sección en el campo de texto limpio.</li>
 <li>Actualizar los campos de alias de URL SEO y el título HTML si es necesario</li>
 <li>Hacer clic en guardar<br /><img style="align:center;border:0px" src="images/help/section_toolbar.png" alt="Barra de herramientas de sección" height="57" width="302"></li>

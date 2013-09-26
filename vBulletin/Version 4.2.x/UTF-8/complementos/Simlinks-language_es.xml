@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<language name="EspaÒol (es)" vbversion="4.2.0" product="skimlinks" type="phrases">
+<language name="EspaÒol (es)" vbversion="4.2.1" product="skimlinks" type="phrases">
 	<phrasetype name="Control Panel Global" fieldname="cpglobal">
 		<phrase name="skimlinks_advanced_options" date="1329921944" username="vBHispano" version="4.1.10"><![CDATA[Opciones avanzadas de Skimlinks]]></phrase>
 		<phrase name="skimlinks_dissociate_account" date="1329921890" username="vBHispano" version="4.1.10"><![CDATA[Disociar cuenta]]></phrase>
